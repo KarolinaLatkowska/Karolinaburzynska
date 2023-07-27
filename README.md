@@ -10,4 +10,9 @@ I am a Junior Java Developer
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
 </div> 
 
+## Codewars: 
+ <div id="header" align="left">
+<img src="https://www.codewars.com/users/karolinaburzynska/badges/large"/>
+  </div>
+
 ## My projects in JAVA:
