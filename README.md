@@ -14,4 +14,3 @@
 <img src="https://www.codewars.com/users/karolinaburzynska/badges/large"/>
   </div>
 
-## My projects in JAVA:
