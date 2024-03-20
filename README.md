@@ -1,5 +1,4 @@
 # Hello, I'm Karolina 👋
-I am a Junior Java Developer
 
 ## 🛠 Languages and Tools: 
   <div>
